@@ -1,0 +1,12 @@
+input {
+    margin-right: 4em;
+}
+
+input #button {
+    padding: 50px;
+}
+
+.image_recommend_text {
+  font-weight: 400;
+  font-style: italic;
+}
